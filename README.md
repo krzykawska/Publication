@@ -1,141 +1,77 @@
-**Department of Biophysics and Cancer Biology
-Faculty of Biochemistry, Biophysics and Biotechnology
-Jagiellonian University**  
-Gronostajowa 7
-30-387 Krakow, Poland
+## Scientyfic paper
 
-Email: martyna.krzykawska.at.uj.edu.pl
+Edyta Barańska, Olga Wiecheć-Cudak, Monika Rak, Aleksandra Bienia, Anna Mrozek-Wilczkiewicz, Martyna Krzykawska-Serda#, Maciej Serda: Interactions of a Water-Soluble Glycofullerene with Glucose Transporter 1. Analysis of the Cellular Effects on a Pancreatic Tumor Model. 
+Nanomaterials 2021,  11 (2): 513
 
-📰 [Publications](https://github.com/krzykawska/digital-cv/edit/gh-pages/Publications.md) 🤓 [ORCID](https://orcid.org/0000-0003-2038-8105)
+Michal Sarna, Martyna Krzykawska-Serda, Monika Jakubowska, Andrzej Zadlo, Krystyna Urbanska: Melanin presence inhibits melanoma cell spread in mice in a unique mechanical fashion.
+Scientific reports 2019, 9, s.1-9
 
-## 🎓 Education:
+Boris Epel, Matthew C Maggio, Eugene D Barth, Richard C Miller, Charles A Pelizzari, Martyna Krzykawska-Serda, Subramanian V Sundramoorthy, Bulent Aydogan, Ralph R Weichselbaum, Victor M Tormyshev, Howard J Halpern: Oxygen-guided radiation therapy.
+International Journal of Radiation Oncology* Biology* Physics 2019, 103 (4), s.977-984
 
-October 2013
-Ph.D. (summa cum laude), Bacteriochlorin based photodynamic anticancer therapy. Selected effects on cells, vasculature and immunity, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
+Maciej Serda, Matthew J Ware, Jared M Newton, Sanchit Sachdeva, Martyna Krzykawska-Serda, Lam Nguyen, Justin Law, Andrew O Anderson, Steven A Curley, Lon J Wilson, Stuart J Corr: Development of photoactive Sweet-C60 for pancreatic cancer stellate cell therapy,
+Nanomedicine 2018, 13 (23), 2981-2993
 
-2009-2013
-Jagiellonian University, Faculty of Biochemistry, Biophysics and Biotechnology, Department of Biophysics, Ph.D. studies, group of professor K. Urbanska with cooperation with group of professor G. Stochel, Chemistry Department
+Martyna Krzykawska-Serda, Jason Chak-Shing Ho, Matthew J Ware, Justin J Law, Jared M Newton, Lam Nguyen, Mahdi Agha, Steven A Curley, Stuart J Corr: Ultrasound Doppler as an imaging modality for selection of murine 4T1 breast tumors for combination radiofrequency hyperthermia and chemotherapy.
+Translational oncology 2018, 11 (4), 864-872
 
-June 2009
-Master of Science, Light biostimulation of melanoma cells, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
+M. Krzykawska-Serda*, M. S. Agha*, J. Chak-Shing Ho, M. J. Ware, J. Law, J. Newton, L. Nguyen, S. A. Curley, and S. J. Corr: Chemotherapy and radiofrequency induced hyperthermia combinatory treatment of orthotopic xenograft of pancreatic ductal adenocarcinoma.
+Translational Oncology 2018, 11 (3), 664-671
 
-2008-2010
-AGH University of Science and Technology, Biomedical Engineering, complementary studies
+J. Newton, J. Flores-Arredondo, S. Suki, M. Ware, M. Krzykawska-Serda, M. Agha, J. Law, A. Sikora , S. Curley, S. Corr: Non-Invasive Radiofrequency Field Treatment of 4T1 Breast Tumors Induces T-cell Dependent Inflammatory Response.
+Scientific Reports 2018, 8 (1), 1-9.
 
-2004-2009
-Jagiellonian University, Faculty of Biology and Earth Science, masters studies in biology, specialization in biophysics
+Ewa Podgorska, Martyna Sniegocka, Marianna Mycinska, Wojciech Trybus, Ewa Trybus, Anna Kopacz-Bednarska, Olga Wiechec, Martyna Krzykawska-Serda#, Martyna Elas, Teodora Krol, Krystyna Urbanska, Andrzej Slominski: Acute hepatologic and nephrologic effects of calcitriol in Syrian golden hamster (Mesocricetus auratus).
+Acta Biochimica Polonica 2018, 65(3), 351-358
 
-## 🔨 Career:
+Boris Epel, Martyna Krzykawska-Serda, Victor Tormyshev, Matthew C Maggio, Eugene D Barth, Charles A Pelizzari, Howard J Halpern: Spin Lattice Relaxation EPR pO2 Images May Direct the Location of Radiation Tumor Boosts to Enhance Tumor Cure.
+Cell Biochemistry and Biophysics 2017, 75(3-4), 295-298
 
-2017 – present
-Assistant Professor, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
+M. Ware, L.P. Nguyen, J.L. Law, M. Krzykawska-Serda, K.M. Taylor, H.S Tran Cao, A.O. Anderson, M. Pulikkathara, J.M. Newton, J. Ho, R. Hwang, K. Rajapakshe, C. Coarfa, S. Huang, D. Edwards, S. Curley and S. Corr: A new mild hyperthermia device to treat vascular involvement in cancer surgery.
+Scientific Reports 2017, 7, 11299
 
-2014-2017
-Research Assistant, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
+Norman A Lapin*, Martyna Krzykawska-Serda*, Sean Dilliard, Yuri Mackeyev, Maciej Serda, Lon J Wilson, Steven A Curley, Stuart J Corr: The effects of non-invasive radiofrequency electric field hyperthermia on biotransport and biodistribution of fluorescent [60] fullerene derivative in a murine orthotopic model of breast adenocarcinoma.
+Journal of Controlled Release 2017, 260, 92-99
 
-2015-2017
-Postdoctoral Scholar, Department of Surgery, Baylor Collage of Medicine, Houston, USA
+M. Ware*, M. Krzykawska-Serda*, J. Chak-Shing Ho, J. Newton, S. Suki, J. Law, L. Nguyen, V. Keshishian, M. Serda, K. Taylor, S. Curley, S. Corr: Optimizing non-invasive radiofrequency hyperthermia treatment for improving drug delivery in 4T1 mouse breast cancer model.
+Scientific Reports 2017, 7, 43961
 
-2014-2015
-Postdoctoral Scholar, Dept. of Radiation and Cellular Oncology, The University of Chicago, Chicago, USA
 
-## 👩‍🏫 Courses taught:
+B. Epel, S. Sudramoorthy, M. Krzykawska-Serda, M. Maggio, Mark Tseytlin, Gareth Eaton, Sandra Eaton, Gerald Rosen, Joseph Kao, H. Halpern: Imaging Thiol Redox Status in Murine Tumors in vivo with Rapid-scan Electron Paramagnetic Resonance.
+Journal of Magnetic Resonance 2017, 276, 31-36
 
-Physiology and pathology of hypoxia (ID: WBt-BT348)
+Norman A Lapin, Martyna Krzykawska-Serda, Matthew J Ware, Steven A Curley, Stuart J Corr: Intravital microscopy for evaluating tumor perfusion of nanoparticles exposed to non-invasive radiofrequency electric fields.
+Cancer nanotechnology 2016, 7(1), 1-19
 
-Biophysical Aspects of the Biology of Neoplasms (ID: WBt-BT167)
+Joanna Marczynska, Magdalena Banas, Krzysztof Guzik, Michal Koltun, Pawel Majewski, Joanna Cichy, Martyna Krzykawska-Serda, Anna Makarska, Mateusz Kwitniewski: Chlorin e6-mediated photodynamic effect diminishes therapeutic potential of 5-aza-2′-deoxycytidine-based whole-tumour-cell vaccine in mice bearing squamous cell carcinoma SCCVII.
+Journal of Photochemistry and Photobiology B: Biology 2015, 153: 455-462
 
-Challenges of modern biophysics (WBT-BFMK5.6)
+Janusz Marcinkiewicz Marcin Przemysław Krzykawski, Martyna Krzykawska-Serda, Katarzyna Jasińska: Pan_02 murine pancreatic cancer model. Folia Medica Cracoviensia 2015, 15-24
 
-Biophysics (ID: WBl-IZ-NE/017 and WBNZ-962)
+Michal Koltun, Magdalena Banas, Pawel Majewski, Martyna Krzykawska-Serda, Mateusz Kwitniewski: Cancer testis antigens: searching for novel mechanisms of photodynamic therapy-mediated antitumor immune responses. Photodiagnosis and photodynamic therapy 2014, 11 (4), 546-548
 
-In vivo veritas - Practical Course in Animal Research (ID: WBT-MBT2-23E amd WBT-BT350)
+M. Krzykawska-Serda, J. M. Dabrowski, L. G. Arnaut, M. Szczygiel, K. Urbanska, G. Stochel, M. Elas, The role of strong hypoxia in tumors after treatment in the outcome of bacteriochlorin-based photodynamic therapy (PDT).
+Free Radicals Biology & Medicine 2014, 73, 239-251
 
-Natural Philosophy (ID: WBT-BCH520)
+M. Jakubowska; D. Michalczyk-Wetula; J. Pyka; A. Susz; K. Urbanska; B. K Plonka; P. Kuleta; P. Lacki; M. Krzykawska-Serda; L. Fiedor; P. M Plonka, Nitrosylhemoglobin in Photodynamically Stressed Human Tumors Growing in Nude Mice,
+Nitric Oxide: Biology and Chemistry 2013, 35, 79-88.
 
-## 🤝 Fellowships:
+Bożena Romanowska-Dixon, Martyna Elas, Jan Swakoń, Urszula Sowa, Marta Ptaszkiewicz, Małgorzata Szczygieł, Martyna Krzykawska, Paweł Olko, Krystyna Urbańska: Metastasis inhibition after proton beam, β-and γ-irradiation of melanoma growing in the hamster eye. Acta Biochimica Polonica 2013, 60 (3), 307-311
 
-January 2022 – June 2022
-The Kosciuszko Foundation Scholarship Chicago University in prof. H. Halpern group.
+J.M. Dabrowski, M. Krzykawska, L. G. Arnaut, M. M. Pereira, C. J. P. Monteiro, S. Simões, K. Urbanska, G. Stochel, Tissue uptake and photodynamic therapy of mice bearing melanoma with a non-toxic, effective chlorin.
+ChemMedChem 2011, 6 (9), 1715-1726.
 
-November 2015 – January 2017
-Postdoctoral Scholar in Baylor College of Medicine in prof. S. Curley and prof. S. Corr group with collaboration with Rice University. Topics: orthotropic and s.q. pancreatic tumors and breast cancer tumors in murine models, chemotherapy combined with radiofrequency induced hyperthermia, intra-vital microscopy, nanoparticles in tumor treatment, tumor tissue ablation, chemotherapy resistance cells, [60]fullerene based phototherapy, USG-guided tumor inoculation, USG based perfusion studies
+## Book chapters:
 
-October 2014 – November 2015
-Postdoctoral Scholar in Chicago University in prof. H. Halpern group. Topics: Electron Paramagnetic Resonance Imaging of tumor physiology (oxygen, redox, pH), mice tumor models, Intensity-Modulated Radiation Therapy, Ductal Carcinoma In Situ, Hypoxia-correlated proteins, hemoglobin modifier (ITPP) for enhancing tumor oxygenation.
+M Elas, M Krzykawska-Serda, M Gonet, A Kozińska, PM Płonka: Electron Paramagnetic Resonance Imaging-Solo and Orchestra.
+In: Shukla A. (eds) Medical Imaging Methods. Springer, Singapore, 2019, 1-42.
 
-February – May 2012
-Erasmus scientific training in prof. L. Arnaut’s group. Topics: colon cancer (CT26) in vivo and in vitro experiments involving photodynamic therapy, Chemistry Department, Coimbra University, Portugal.
+M Krzykawska-Serda, D Michalczyk-Wetula, PM Płonka: Dermatological Applications of EPR: Skin-Deep or In-Depth?
+In: Shukla A. (eds) Electron Spin Resonance Spectroscopy in Medicine. Springer, Singapore, 2019, 153-187.
 
-## 💰 Grants:
+M. Krzykawska-Serda#, R. Miller, M. Elas, B. Epel, E. Barth, M. Maggio, H. Halpern: Correlation Between Hypoxia Proteins and EPR-detected Hypoxia in Tumors.
+In: Halpern H., LaManna J., Harrison D., Epel B. (eds) Oxygen Transport to Tissue XXXIX. Advances in Experimental Medicine and Biology. Springer 2017, Cham. 319-325.
 
-### Principal Investigator:
 
-2019-2023
-National Science Centre, OPUS15: UMO-2018/29/B/NZ5/02954
 
-2018-2019
-Jagiellonian University Grant for Young Scientists 2018/19: BMN 4/2011
-
-2012-2017
-National Science Centre, Preludium2: DEC-2011/03/N/NZ4/02019
-
-2013-2014
-Jagiellonian University Grant for Young Scientists 2013/14: BMN 1/2013)
-
-2012-2013
-Jagiellonian University Grant for Young Scientists 2012/13: BMN 5/2012
-
-2011-2012
-Jagiellonian University Grant for Young Scientists 2011/12: BMN 4/2011
-
-### Researcher in international grants:
-
-2015-2017
-Physical Sciences in Oncology Center: Center for Transport Oncophysics (NIH, U54 CA143837)
-
-2014-2015
-Radiation Biology of EPR Oxygen Images (NIH, R01 CA98575)
-
-2014-2015
-Very Low Frequency EPR Imaging for In Vivo Physiology (NIH/NIBIB, P41 EB002034-15)
-
-2010-2013
-Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2010-2013, 60 303)
-
-## 🤚 Professional activities:
-
-### Oral presentations:
-
-- XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting: Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro (12.02.2021)
-
-- 2015 In Vivo Oxygen Imaging Workshop, The University of Chicago, Chicago, USA: Cancer development and treatment – oxygen as a driving factor (07.22-23.2015)
-
-- Center for EPR Imaging In Vivo Physiology, The University of Chicago, Chicago, USA: O2 image-guided radiation therapy, Ductal oxygenation with EPR imaging, Beyond Cancer: Approaches to brain imaging (04.30-05.01.2015)
-
-- EFMC-ISMC 2014, XXIII International Symposium on Medicinal Chemistry, Lizboa, Portugal: Biomarkers after Bacteriohlorin-based Photodynamic Therapy against Cancer (05.7-11.2014)
-
-- The 14th World Congress of The International Photodynamic Association, Seul, South Korea: Obliteration or normalization of the blood vessels in murine tumors after F2BMet-PDT (05.28-31.2013)
-
-- LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: F2BMet-PDT effects on tumor vasculature (02.16-21. 2013)
-
-- 9th International Symposium on Photodynamic Therapy and Photodiagnosis in Clinical Practice and 4th International Meeting of the European Platform for Photodynamic Medicine, Brixen/Bressanone, Italy: Quantitiv measurements of phototherapeutic response of murine tumor vessel (10.16-20. 2012)
-
-- I Scientific meeting - Between Science, Chorzow, Poland: Oxygenation and blood perfusion in tumors after bacteriochlorin-based photodynamic therapy show the effectiveness of PDT (5. 10. 2012)
-
-- V Medicinal Chemistry Conference, Lublin, Poland: Effects of bacteriochlorin based photodynamic therapy on tumor physiology (09.13-15.2012)
-
-- XXXIXth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: Effects of Bacteriochlorin Based Photodynamic Therapy on Tumor Structure (02.4-8. 2012)
-
-- International Workshop “Molecular Pathways in the Response of Tumors to Photodynamic Therapy”, Udine, Italy: Synthetic Bacteriochlorin derivatives in phototherapy of murine tumors (09.9-10. 2011)
-
-### Poster presentations:
-
-## 🏆 Honors and awards:
-
-Polish Ministry of Science and Higher Education Scholarship for Outstanding Young Scientist for years 2018-2021
-
-Polish Ministry of Science and Higher Education Scholarship for Ph.D. students for 2013/14 academic year
-
-Translational Medicine Malopolska Center Sholarship for 2014 year
 
