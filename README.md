@@ -1,6 +1,3 @@
-* - joined 1st co-authorship
-# - coresponding author 
-
 ## Scientyfic papers
 
 Edyta Barańska, Olga Wiecheć-Cudak, Monika Rak, Aleksandra Bienia, Anna Mrozek-Wilczkiewicz, Martyna Krzykawska-Serda#, Maciej Serda: Interactions of a Water-Soluble Glycofullerene with Glucose Transporter 1. Analysis of the Cellular Effects on a Pancreatic Tumor Model. 
