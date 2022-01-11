@@ -100,7 +100,7 @@ In: Halpern H., LaManna J., Harrison D., Epel B. (eds) Oxygen Transport to Tissu
 
 -	J.M. Dabrowski, G. Stochel, M. Krzykawska, K. Urbanska,  M. M. Pereira,  L. G. Arnaut,  Comparative Studies of the Phototoxixity of Halogenated Photosensitizers- A Mechanistic Approach, 13th International Photodynamic Association World Congress (IPA) (2011), s.99-103,  ISBN: 978-88-7587-628-9, IF=N/A
 
--		M. Krzykawska, Życiowe problemy – czyli o tym, co dla biologa najważniejsze, Semina Scientarum PL ISSN 1644-3365, Nr 7 2008, s.35–48.
+-	M. Krzykawska, Życiowe problemy – czyli o tym, co dla biologa najważniejsze, Semina Scientarum PL ISSN 1644-3365, Nr 7 2008, s.35–48.
 
 
 [go to CV](https://krzykawska.github.io/digital-cv/)
