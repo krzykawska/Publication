@@ -1,6 +1,6 @@
 ## Scientyfic papers
 
-[GO BACK](https://krzykawska.github.io/digital-cv/)
+[go to CV](https://krzykawska.github.io/digital-cv/)
 
 Edyta Barańska, Olga Wiecheć-Cudak, Monika Rak, Aleksandra Bienia, Anna Mrozek-Wilczkiewicz, Martyna Krzykawska-Serda#, Maciej Serda: Interactions of a Water-Soluble Glycofullerene with Glucose Transporter 1. Analysis of the Cellular Effects on a Pancreatic Tumor Model. 
 Nanomaterials 2021,  11 (2): 513
@@ -103,6 +103,6 @@ In: Halpern H., LaManna J., Harrison D., Epel B. (eds) Oxygen Transport to Tissu
 -		M. Krzykawska, Życiowe problemy – czyli o tym, co dla biologa najważniejsze, Semina Scientarum PL ISSN 1644-3365, Nr 7 2008, s.35–48.
 
 
-[GO BACK](https://krzykawska.github.io/digital-cv/)
+[go to CV](https://krzykawska.github.io/digital-cv/)
 
 
