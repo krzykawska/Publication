@@ -63,7 +63,10 @@ Bożena Romanowska-Dixon, Martyna Elas, Jan Swakoń, Urszula Sowa, Marta Ptaszki
 J.M. Dabrowski, M. Krzykawska, L. G. Arnaut, M. M. Pereira, C. J. P. Monteiro, S. Simões, K. Urbanska, G. Stochel, Tissue uptake and photodynamic therapy of mice bearing melanoma with a non-toxic, effective chlorin.
 ChemMedChem 2011, 6 (9), 1715-1726.
 
-## Book chapters:
+## Book chapters and reviews:
+
+A. Bienia, O. Wiecheć-Cudak, A. A. Murzyn, M. Krzykawska-Serda: [Photodynamic therapy and hyperthermia in combination treatment—Neglected forces in the fight against cancer](https://www.mdpi.com/1999-4923/13/8/1147/pdf).
+Pharmaceutics 13 (8) 2021, s.1147
 
 M Elas, M Krzykawska-Serda, M Gonet, A Kozińska, PM Płonka: Electron Paramagnetic Resonance Imaging-Solo and Orchestra.
 In: Shukla A. (eds) Medical Imaging Methods. Springer, Singapore, 2019, 1-42.
