@@ -84,23 +84,68 @@ J.M. Dabrowski, G. Stochel, M. Krzykawska, K. Urbanska,  M. M. Pereira,  L. G. A
 
 ## Conference abstracts:  
 
-- Howard Halpern, Matthew Maggio, Eugene Barth, Darwin Bodero, Richard C. Miller, Charles A. Pelizzari, Martyna Krzykawska-Serda, Subramanian V. Sundramoorthy, Bulent Aydogan, Ralph R. Weichselbaum, Victor M. Tormyshev, Inna Gertsenshteyn and Boris Epel: 
-Abstract 2773: Increased tumor control boosting hypoxic regions identified with EPR pO2 imaging in 2 tumor types.
-AACR Annual Meeting 2020; April 27-28, 2020 and June 22-24, 2020; Philadelphia, PA. 
-DOI: 10.1158/1538-7445.AM2020-2773
+- O Wiecheć-Cudak, A Bienia, D Robak, A Kłóś, K Winiarska, M Winkler, M Krzykawska-Serda, K Urbańska: Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro.  
+local organizing committee program plenary lectures **2021**, p.42 [file](https://winterschool.wbbib.uj.edu.pl/documents/143440258/0/Book+of+Abstracts/10699ff4-580b-4022-ac7e-ac49575a20ec#page=42)   
 
-- Richard Miller, Boris Epel, Martyna Elas, Martyna Krzykawska-Serda, Matthew Maggio, Eugene Barth, Mihai Giurcanu, Howard Halpern: Electron paramagnetic resonance (EPR) pO2 image-guided tumor biopsies to analyze hypoxia-induced proteins.
-Cancer Research 2018, 13 Supplement, 78, p.668
-Proceedings: AACR Annual Meeting 2018; April 14-18, 2018; Chicago, IL.
-DOI: 10.1158/1538-7445.AM2018-668
+- A Bienia, A Murzyn, M Szczygieł, D Szczygieł, O Wiecheć-Cudak, D Robak, R Sitko, M Zubko, A Kozińska, M Serda, M Krzykawska-Serda: The novel gold nanorod-based nanotherapeutic for multi-module pancreatic cancer therapy.  
+local organizing committee program plenary lectures **2021** p.46 [file](https://winterschool.wbbib.uj.edu.pl/documents/143440258/0/Book+of+Abstracts/10699ff4-580b-4022-ac7e-ac49575a20ec#page=46)  
 
-- Howard J Halpern, Boris Epel, Matthew C Maggio, Martyna Krzykawska-Serda, Gage H Redler, Richard C Miller, Eugene D Barth, Ralph R Weichselbaum, Victor M Tormyshev: Second tumor type showing hypoxia targeting with radiation improves tumor control in a mammal tumor model.
-Cancer Research 2018, 13 Supplement, 78, p.4157
-Proceedings: AACR Annual Meeting 2018; April 14-18, 2018; Chicago, IL.
-DOI: 10.1158/1538-7445.AM2018-4157 
+- Howard Halpern, Matthew Maggio, Eugene Barth, Darwin Bodero, Richard C. Miller, Charles A. Pelizzari, Martyna Krzykawska-Serda, Subramanian V. Sundramoorthy, Bulent Aydogan, Ralph R. Weichselbaum, Victor M. Tormyshev, Inna Gertsenshteyn and Boris Epel: Abstract 2773: Increased tumor control boosting hypoxic regions identified with EPR pO2 imaging in 2 tumor types.  
+AACR Annual Meeting **2020**; April 27-28, 2020 and June 22-24, 2020; Philadelphia, PA.   
+DOI: 10.1158/1538-7445.AM2020-2773  
 
-- M Krzykawska-Serda, MJ Ware, N Lapin, M Agha, J Ho, J Law, J Newton, L Nguyen, S Curley, S Corr: PO-438 Hyperthermia as neoadjuvant treatment for pancreatic tumours in murine models. 
-ESMO Open, 3(2) p.A403
+- Richard Miller, Boris Epel, Martyna Elas, Martyna Krzykawska-Serda, Matthew Maggio, Eugene Barth, Mihai Giurcanu, Howard Halpern: Electron paramagnetic resonance (EPR) pO2 image-guided tumor biopsies to analyze hypoxia-induced proteins.  
+Cancer Research **2018**, 13 Supplement, 78, p.668  
+Proceedings: AACR Annual Meeting 2018; April 14-18, 2018; Chicago, IL.  
+DOI: 10.1158/1538-7445.AM2018-668  
+
+- Howard J Halpern, Boris Epel, Matthew C Maggio, Martyna Krzykawska-Serda, Gage H Redler, Richard C Miller, Eugene D Barth, Ralph R Weichselbaum, Victor M Tormyshev: Second tumor type showing hypoxia targeting with radiation improves tumor control in a mammal tumor model.  
+Cancer Research **2018**, 13 Supplement, 78, p.4157  
+Proceedings: AACR Annual Meeting 2018; April 14-18, 2018; Chicago, IL.  
+DOI: 10.1158/1538-7445.AM2018-4157   
+
+- M Krzykawska-Serda, MJ Ware, N Lapin, M Agha, J Ho, J Law, J Newton, L Nguyen, S Curley, S Corr: PO-438 Hyperthermia as neoadjuvant treatment for pancreatic tumours in murine models.   
+ESMO Open **2018**, 3(2) p.A403  
+DOI: 10.1136/esmoopen-2018-EACR25.949  
+
+- Howard J. Halpern, Boris Epe;, Matthew C. Maggio, Martyna Krzykawska-Serda, Gage H. Redler, Richard C. Miller, Eugene D. Barth and Ralph R. Weichselbaum: Abstract 1874: First demonstration that hypoxia targeting with radiation improves tumor control in a mammal tumor model.  
+Cancer Research **2017**, 13 Supplement, 77, p.1874  
+Proceedings: AACR Annual Meeting 2017; April 1-5, 2017; Washington, DC  
+DOI: 10.1158/1538-7445.AM2017-1874
+
+- M Krzykawska-Serda, M Karwicka, M Gonet, A Drzał, JM Dąbrowski, LG Arnaut, G Stochel, K Urbańska, M Elas: Tumor vasculature and oxygenation changes in vivo after photodynamic therapy.  
+Photodiagnosis and Photodynamic Therapy **2017**, p.100(7), A48-49  
+DOI: 10.1016/j.pdpdt.2017.01.108
+
+- M Sarna, A Zadlo, M Krzykawska-Serda, K Urbanska, T Sarna: Melanin granules limit the ability of melanoma cells to spread.  
+Pigment Cell & Melanoma Research **2015**, 28(5)   
+
+- M Krzykawska-Serda, K Jasinska, J Dabrowski, G Stochel, LG Arnaut, K Urbanska, M Elas: 678: Photodynamic therapy effects on tumor vasculature and oxygenation in vivo.  
+European Journal of Cancer **2014**, 50, p.S163  
+DOI: 10.1016/S0959-8049(14)50597-7
+
+- Martyna Krzykawska-Serda, Katarzyna Jasinska, Martyna Elas, Grazyna Stochel, Luis Arnaut, Krystyna Urbanska, Janusz M Dabrowski: Local inflammation and long-term anti-tumor response after F (2) BMet-PDT.  
+International Journal Of Molecular Medicine **2014**, 34, p.S99  
+
+- Martyna Krzykawska, Janusz M Dabrowski, Grażyna Stochel, Luis G Arnaut, Mariette M Pereira, Krystyna Urbanska, Martyna Elas: Vascular targeting of bacteriochlorin photodynamic therapy of cancer.  
+Vascular Pharmacology **2012**, 5 (56), p.368-369  
+DOI: 10.1016/j.vph.2011.08.170
+
+- M Krzykawska, JM Dabrowski, M Szczygiel, G Stochel, LG Arnaut, MM Pereira, K Urbanska, M Elas: 808 Non-invasive Prognostic Tools for Phototherapeutic Response in Murine Tumors.  
+European Journal Of Cancer **2012**, 48, p.S193  
+DOI: 10.1016/S0959-8049(12)71441-7
+
+- Agnieszka Bem, Martyna Krzykawska, Janusz M Dabrowski, Grażyna Stochel, Luis G Arnaut, Mariette M Pereira, Krystyna Urbanska, Martyna Elas: Vascular vs. cellular targeting of anti-tumor photodynamic therapy using bacteriochlorin derivative.  
+Vascular Pharmacology **2012**, 5 (56), p.369  
+DOI: 10.1016/j.vph.2011.08.171  
+
+- J Dabrowski, L Arnaut, M Pereira, M Krzykawska, K Urbanska, S Simoes, G Stochel: Mechanistic studies on the anticancer activity of novel amphiphilic halogenated bacteriochlorins.  
+Photodiagnosis and Photodynamic Therapy **2011**, 2(8) p.184  
+DOI: 10.1016/j.pdpdt.2011.03.209  
+
+- M Krzykawska, K Soczek, B Kalinowska, JM Dabrowski, G Stochel, LG Arnaut, MM Pereira, K Urbañska, M Elas: Noninvasive oxygen and perfusion measurements in tumors after PDT.  
+Photodiagnosis and Photodynamic Therapy **2011**, 2(8) p.185  
+DOI: 10.1016/j.pdpdt.2011.03.211
 
 ## Others:
 
