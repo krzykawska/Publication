@@ -68,16 +68,19 @@ ChemMedChem **2011**, 6 (9), s.1715-1726. [page](https://chemistry-europe.online
 ## Book chapters and reviews:
 
 A. Bienia, O. Wiecheć-Cudak, A. A. Murzyn, M. Krzykawska-Serda: *Photodynamic therapy and hyperthermia in combination treatment—Neglected forces in the fight against cancer.*  
-Pharmaceutics 13 (8) 2021, s.1147 [file](https://www.mdpi.com/1999-4923/13/8/1147/pdf)
+Pharmaceutics 13 (8) **2021**, s.1147 [file](https://www.mdpi.com/1999-4923/13/8/1147/pdf)
 
 M Elas, M Krzykawska-Serda, M Gonet, A Kozińska, PM Płonka: *Electron Paramagnetic Resonance Imaging-Solo and Orchestra.*  
-In: Shukla A. (eds) Medical Imaging Methods. Springer, Singapore, 2019, s.1-42. [book](https://link.springer.com/content/pdf/10.1007%2F978-981-13-9121-7.pdf)
+In: Shukla A. (eds) Medical Imaging Methods. Springer, Singapore, **2019**, s.1-42. [book](https://link.springer.com/content/pdf/10.1007%2F978-981-13-9121-7.pdf)
 
 M Krzykawska-Serda, D Michalczyk-Wetula, PM Płonka: *Dermatological Applications of EPR: Skin-Deep or In-Depth?.*  
-In: Shukla A. (eds) Electron Spin Resonance Spectroscopy in Medicine. Springer, Singapore, 2019, s.153-187. [book](https://link.springer.com/content/pdf/10.1007%2F978-981-13-2230-3.pdf)
+In: Shukla A. (eds) Electron Spin Resonance Spectroscopy in Medicine. Springer, Singapore, **2019**, s.153-187. [book](https://link.springer.com/content/pdf/10.1007%2F978-981-13-2230-3.pdf)
 
 M. Krzykawska-Serda#, R. Miller, M. Elas, B. Epel, E. Barth, M. Maggio, H. Halpern: *Correlation Between Hypoxia Proteins and EPR-detected Hypoxia in Tumors.*  
-In: Halpern H., LaManna J., Harrison D., Epel B. (eds) Oxygen Transport to Tissue XXXIX. Advances in Experimental Medicine and Biology. Springer 2017, Cham. s.319-325. [book](https://link.springer.com/content/pdf/10.1007%2F978-3-319-55231-6.pdf)
+In: Halpern H., LaManna J., Harrison D., Epel B. (eds) Oxygen Transport to Tissue XXXIX. Advances in Experimental Medicine and Biology. Springer **2017**, Cham. s.319-325. [book](https://link.springer.com/content/pdf/10.1007%2F978-3-319-55231-6.pdf)
+
+J.M. Dabrowski, G. Stochel, M. Krzykawska, K. Urbanska,  M. M. Pereira,  L. G. Arnaut:  *Comparative Studies of the Phototoxixity of Halogenated Photosensitizers- A Mechanistic Approach*.  
+13th International Photodynamic Association World Congress (IPA) **2011**, s99-103,  ISBN: 978-88-7587-628-9
 
 ## Conference abstracts:  
 
