@@ -77,7 +77,7 @@ M Krzykawska-Serda, D Michalczyk-Wetula, PM Płonka: Dermatological Applications
 In: Shukla A. (eds) Electron Spin Resonance Spectroscopy in Medicine. Springer, Singapore, 2019, s.153-187. [book](https://link.springer.com/content/pdf/10.1007%2F978-981-13-2230-3.pdf)
 
 M. Krzykawska-Serda#, R. Miller, M. Elas, B. Epel, E. Barth, M. Maggio, H. Halpern: Correlation Between Hypoxia Proteins and EPR-detected Hypoxia in Tumors.  
-In: Halpern H., LaManna J., Harrison D., Epel B. (eds) Oxygen Transport to Tissue XXXIX. Advances in Experimental Medicine and Biology. Springer 2017, Cham. s.319-325. [book]((https://link.springer.com/content/pdf/10.1007%2F978-3-319-55231-6.pdf)
+In: Halpern H., LaManna J., Harrison D., Epel B. (eds) Oxygen Transport to Tissue XXXIX. Advances in Experimental Medicine and Biology. Springer 2017, Cham. s.319-325. [book](https://link.springer.com/content/pdf/10.1007%2F978-3-319-55231-6.pdf)
 
 ## Conference abstracts:  
 
