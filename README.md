@@ -1,4 +1,6 @@
 ## Scientyfic papers
+joined first co-authorship: * 
+corresponding author: #
 
 [go to CV](https://krzykawska.github.io/digital-cv/)
 
