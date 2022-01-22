@@ -80,7 +80,7 @@ M. Krzykawska-Serda#, R. Miller, M. Elas, B. Epel, E. Barth, M. Maggio, H. Halpe
 In: Halpern H., LaManna J., Harrison D., Epel B. (eds) Oxygen Transport to Tissue XXXIX. Advances in Experimental Medicine and Biology. Springer **2017**, Cham. s.319-325. [book](https://link.springer.com/content/pdf/10.1007%2F978-3-319-55231-6.pdf)
 
 J.M. Dabrowski, G. Stochel, M. Krzykawska, K. Urbanska,  M. M. Pereira,  L. G. Arnaut:  *Comparative Studies of the Phototoxixity of Halogenated Photosensitizers- A Mechanistic Approach*.  
-13th International Photodynamic Association World Congress (IPA) **2011**, s99-103,  ISBN: 978-88-7587-628-9
+13th International Photodynamic Association World Congress (IPA) **2011**, s99-103,  ISBN: 978-88-7587-628-9 [file](https://github.com/krzykawska/Publication/blob/e17971645863fb3109d5383c6710f68d8a49648e/IPA2011.pdf)  
 
 ## Conference abstracts:  
 
@@ -100,8 +100,6 @@ Proceedings: AACR Annual Meeting 2018; April 14-18, 2018; Chicago, IL.
 DOI: 10.1158/1538-7445.AM2018-4157 
 
 - M Krzykawska-Serda, MJ Ware, N Lapin, M Agha, J Ho, J Law, J Newton, L Nguyen, S Curley, S Corr: PO-438 Hyperthermia as neoadjuvant treatment for pancreatic tumours in murine models. 
-
--	J.M. Dabrowski, G. Stochel, M. Krzykawska, K. Urbanska,  M. M. Pereira,  L. G. Arnaut,  Comparative Studies of the Phototoxixity of Halogenated Photosensitizers- A Mechanistic Approach, 13th International Photodynamic Association World Congress (IPA) (2011), s.99-103,  ISBN: 978-88-7587-628-9, IF=N/A
 
 
 ## Others:
