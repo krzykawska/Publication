@@ -151,7 +151,7 @@ DOI: 10.1016/j.pdpdt.2011.03.211
 
 ## Others:
 
--	M. Krzykawska, Życiowe problemy – czyli o tym, co dla biologa najważniejsze, Semina Scientarum PL ISSN 1644-3365, Nr 7 2008, p.35–48.
+-	M. Krzykawska, Życiowe problemy – czyli o tym, co dla biologa najważniejsze, Semina Scientarum PL ISSN1644-3365, Nr 7 2008, p.35–48.
 
 
 [go to CV](https://krzykawska.github.io/digital-cv/)
