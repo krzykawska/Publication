@@ -5,7 +5,7 @@ corresponding author: #
 [go to CV](https://krzykawska.github.io/digital-cv/)
 
 Martyna Krzykawska-Serda#, Dariusz Szczygieł, Szymon Gaweł, Agnieszka Drzał, Małgorzata Szczygieł, Maciej M. Kmieć, Andrzej Mackiewicz, Claudine Kieda, Martyna Elas: Oxygen therapeutic window induced by myo-inositol trispyrophosphate (ITPP) – local pO2 study in murine tumors.
-Plos One 2023, accepted PONE-D-22-32772R1  
+Plos One **2023**, accepted PONE-D-22-32772R1  
 
 Edyta Barańska, Olga Wiecheć-Cudak, Monika Rak, Aleksandra Bienia, Anna Mrozek-Wilczkiewicz, Martyna Krzykawska-Serda#, Maciej Serda: *Interactions of a Water-Soluble Glycofullerene with Glucose Transporter 1. Analysis of the Cellular Effects on a Pancreatic Tumor Model.*   
 Nanomaterials **2021**,  11 (2), p.513 [file](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7922475/pdf/nanomaterials-11-00513.pdf)
