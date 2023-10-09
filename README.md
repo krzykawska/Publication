@@ -4,6 +4,7 @@ corresponding author: #
 
 [go to CV](https://krzykawska.github.io/digital-cv/)
 
+
 Gabriela Dziurman, Agnieszka Drzał, Aleksandra Anna Murzyn, Maciej Mikolaj Kmiec, Martyna Elas & Martyna Krzykawska-Serda#: *Pulse and CW EPR Oximetry Using Oxychip in Gemcitabine-Treated Murine Pancreatic Tumors.* 
 Mol Imaging Biol **2023**, [file](https://link.springer.com/content/pdf/10.1007/s11307-023-01859-w.pdf?pdf=button)  
 
