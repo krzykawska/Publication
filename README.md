@@ -65,7 +65,7 @@ Joanna Marczynska, Magdalena Banas, Krzysztof Guzik, Michal Koltun, Pawel Majews
 Journal of Photochemistry and Photobiology B: Biology **2015**, 153, p.455-462 [page](https://www.sciencedirect.com/science/article/abs/pii/S1011134415003541?via%3Dihub)
 
 Marcin Przemysław Krzykawski, Martyna Krzykawska-Serda, Katarzyna Jasińska, Janusz Marcinkiewicz: *Pan_02 murine pancreatic cancer model.*   
-Folia Medica Cracoviensia **2015**, p.15-24 [file](http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.oai-journals-pan-pl-87795/c/oai-journals-pan-pl-87795_full-text_6946954b-9117-4478-a4df-a71451d48d4a.pdf])
+Folia Medica Cracoviensia **2015**, p.15-24 [file](http://www.fmc.cm-uj.krakow.pl/pdf/55_3_15.pdf)
 
 Michal Koltun, Magdalena Banas, Pawel Majewski, Martyna Krzykawska-Serda, Mateusz Kwitniewski: *Cancer testis antigens: searching for novel mechanisms of photodynamic therapy-mediated antitumor immune responses.*   
 Photodiagnosis and photodynamic therapy **2014**, 11 (4), p.546-548 [page](https://www.sciencedirect.com/science/article/abs/pii/S1572100014001203?via%3Dihub)
