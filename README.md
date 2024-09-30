@@ -4,14 +4,18 @@ corresponding author: #
 
 [go to CV](https://krzykawska.github.io/digital-cv/)
 
+
+Martyna Krzykawska-Serda, Qian Feng, Maciej Serda: *Score a goal with buckyballs: Hypoxia-sensitive [70] fullerene nanotherapeutics*  
+Matter **2024**, [online](https://www.sciencedirect.com/science/article/abs/pii/S2590238524002649)
+
 Małgorzata Szczygieł, Barbara Kalinowska, Dariusz Szczygieł, Martyna Krzykawska-Serda, Leszek Fiedor, Aleksandra Anna Murzyn, Justyna Sopel, Zenon Matuszak, and Martyna Elas: *EPR monitoring of oxygenation levels in tumors after chlorophyllide-based photodynamic therapy may allow for early prediction of treatment outcome*
-Mol Imaging Biol **2023**, accepted Nov2023
+Mol Imaging Biol **2024**, [online](https://link.springer.com/article/10.1007/s11307-023-01886-7)
 
 Inna Gertsenshteyn,Boris Epel, Mihai Giurcanu, Eugene Barth, John Lukens, Kayla Hall, Jenipher Flores Martinez, Mellissa Grana, Matthew Maggio, Richard C Miller, Subramanian V Sundramoorthy, Martyna Krzykawska-Serda, Erik Pearson, Bulent Aydogan, Ralph R Weichselbaum, Victor M Tormyshev, Mrignayani Kotecha and Howard Halpern: *Absolute Oxygen-Guided Radiation Therapy Improves Tumor Control in Three Preclinical Tumor Models* 
 Frontiers in Medicine Nuclear Medicine **2023**, [online](https://www.frontiersin.org/articles/10.3389/fmed.2023.1269689/full)
 
 Gabriela Dziurman, Agnieszka Drzał, Aleksandra Anna Murzyn, Maciej Mikolaj Kmiec, Martyna Elas & Martyna Krzykawska-Serda#: *Pulse and CW EPR Oximetry Using Oxychip in Gemcitabine-Treated Murine Pancreatic Tumors.* 
-Mol Imaging Biol **2023**, [file](https://link.springer.com/content/pdf/10.1007/s11307-023-01859-w.pdf?pdf=button)  
+Mol Imaging Biol **2024**, [file](https://link.springer.com/content/pdf/10.1007/s11307-023-01859-w.pdf?pdf=button)  
 
 Maciej Serda, Julia Korzuch, Dominik Dreszer, Martyna Krzykawska-Serda, Robert Musioł: *Interactions between modified fullerenes and proteins in cancer nanotechnology.*
 Drug Discovery Today **2023**, [file](https://pdf.sciencedirectassets.com/271275/AIP/1-s2.0-S1359644623002209/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCl54pga64QsryejqEQeUZJ5U9y2niL%2FdUL7GQG%2BGZ6BgIhALpWo8V6OpwyphviMardo0k77zQ1m269Bik0Slkm3rZOKrIFCGUQBRoMMDU5MDAzNTQ2ODY1Igwa5rKQ4cUz04VbxDEqjwV6uwWRiqIYBCKA0MFOATdyPhdDLbBcJ71tbG8ATk6Uko15ESCinU43NXbylzSbEiTgwOKJcahlDATITc%2FiDeDTU7XL7csQA12d3xLBRTJW3iUgZBqqoh0d%2Fi3I2SLASAwM48obALzMDOvF3oubDnjG75eZW7pkQVvzYXILBdHMZ%2BZPN85xYIVNLZTJMG2GTxw3fO6S6GaZO%2FV4SjK3iL6tVQOZywXvdyKugJ53DzMgsg4JE8eGvihrRpoVjGdFkKnNO6TKBNstDmgZ3vO%2BTjIpMf14Xukw5ykfzkiI7BEj9FDOZEDFdda4cyqm2r7UX40Rwg4G3Y8kuuAVpsxHUY%2FpswIK7QnmaSVYGxTpU76N8eFkIIhbgjXudnzkODjbKb2REmIG4sMuy%2FWrz4PKmgHpBUJPLQA%2BYusDOW3oc%2FoX1dLkkP%2FCWghThrgPU6ZsrQ34GZFXxjTmCAGbwBiBkE1TKGYvIVB1N5EMSANjds4vbtw5Vqa4x7Tx%2FKgxIz3jmiiz%2FJToDzirweQClca9z24DbAb6TY9ekQj%2BxT17tV43svhaHhw1nHGbcHVQ3N%2BrOHvZf0VZpNbz1rCDq45BxnPtrTdaiegKr7vdMh%2FXdqvFAohYNQHBvpG1ILZJV%2BYt7rvrfI8vMdTMKfz3ZVhHt5%2BU62GXWO8zMFdYatp6LAmmWJg%2F3K%2Bnae7pLAahtJoAgoStFG7uFCbSEL%2BindWT3WkUnjmem8EgqCcpq3Ltm8nyQuOkzV563cY9oF0KeI9DulC1wCnwwKwsYK3lMRE3R5HC4f7xaoO7%2BfXbZKnL%2B2VGosQhoAB6FlVVNqRiGBAS8ILSjyu7w9BGh7GBpRxn1mbvCOKwho%2Ba4kAkYqO%2FPBKjMJ661qUGOrAB0LmRcELAKI1jbYCBZtTnjSqb9C5YMaIywMegNZ5bsRIsxGhxugHlTyJZ5%2FTgbKf5qRYzF%2FRyOqTAeSIsi62339c%2FiB%2BmXuQMxvokP5%2F%2F%2BcvIGsi71Xem0LUclAxgPbO6i7KwrOWbAv2iPbB%2F1MHCBYDQx2xQ7JHl1zH2FE8WypjzDeHCtrQbGXiCEFgORVfCSMh0r4dX1SW4ofdvh58pbDpiCkA98sRVrvNW7uLT3ss%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230717T213700Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYZZSV6TES%2F20230717%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=84c16fb44f18985d67f4b56c5b32c6fd45a5a4b536de4e5d102ab896c3cd2cb1&hash=da7561e25bcc9411feb44c777e697e16368356c5fedf7307340f0cc52276e81c&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1359644623002209&tid=spdf-df1cfdb6-5287-4f3a-ae18-8012b77b6225&sid=e019aaac194f774fa58884f77a9a28750cd6gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=160f58055b525e04075b&rr=7e859fa8381ec31e&cc=pl)  
@@ -84,6 +88,9 @@ J.M. Dabrowski, M. Krzykawska, L. G. Arnaut, M. M. Pereira, C. J. P. Monteiro, S
 ChemMedChem **2011**, 6 (9), p.1715-1726. [page](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.201100186)
 
 ## Book chapters and reviews:
+
+S.G. Sanmukh, M. Krzykawska-Serda, P. Dragan, S.Baron, J. A. Lobaccaro, D. Latek: *Is Cancer Our Equal or Our Better? Artificial Intelligence in Cancer Drug Discovery*
+Interdisciplinary Cancer Research **2024**, [online](https://link.springer.com/chapter/10.1007/16833_2024_326)
 
 A. Bienia, O. Wiecheć-Cudak, A. A. Murzyn, M. Krzykawska-Serda: *Photodynamic therapy and hyperthermia in combination treatment—Neglected forces in the fight against cancer.*  
 Pharmaceutics 13 (8) **2021**, p.1147 [file](https://www.mdpi.com/1999-4923/13/8/1147/pdf)
