@@ -12,7 +12,7 @@ Małgorzata Szczygieł, Barbara Kalinowska, Dariusz Szczygieł, Martyna Krzykaws
 Mol Imaging Biol **2024**, [online](https://link.springer.com/article/10.1007/s11307-023-01886-7)
 
 Inna Gertsenshteyn,Boris Epel, Mihai Giurcanu, Eugene Barth, John Lukens, Kayla Hall, Jenipher Flores Martinez, Mellissa Grana, Matthew Maggio, Richard C Miller, Subramanian V Sundramoorthy, Martyna Krzykawska-Serda, Erik Pearson, Bulent Aydogan, Ralph R Weichselbaum, Victor M Tormyshev, Mrignayani Kotecha and Howard Halpern: *Absolute Oxygen-Guided Radiation Therapy Improves Tumor Control in Three Preclinical Tumor Models* 
-Frontiers in Medicine Nuclear Medicine **2023**, [online](https://www.frontiersin.org/articles/10.3389/fmed.2023.1269689/full) [Corrigendum](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1339872/full)
+Frontiers in Medicine Nuclear Medicine **2023**, [online](https://www.frontiersin.org/articles/10.3389/fmed.2023.1269689/full), [Corrigendum](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1339872/full)
 
 Gabriela Dziurman, Agnieszka Drzał, Aleksandra Anna Murzyn, Maciej Mikolaj Kmiec, Martyna Elas & Martyna Krzykawska-Serda#: *Pulse and CW EPR Oximetry Using Oxychip in Gemcitabine-Treated Murine Pancreatic Tumors.* 
 Mol Imaging Biol **2024**, [file](https://link.springer.com/content/pdf/10.1007/s11307-023-01859-w.pdf?pdf=button)  
