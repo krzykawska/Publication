@@ -90,7 +90,8 @@ ChemMedChem **2011**, 6 (9), p.1715-1726. [page](https://chemistry-europe.online
 ## Book chapters and reviews:
 
 S.G. Sanmukh, M. Krzykawska-Serda, P. Dragan, S.Baron, J. A. Lobaccaro, D. Latek: *Is Cancer Our Equal or Our Better? Artificial Intelligence in Cancer Drug Discovery*
-Interdisciplinary Cancer Research **2024**, [online](https://link.springer.com/chapter/10.1007/16833_2024_326)
+Interdisciplinary 
+Cancer Research **2024**, [online](https://link.springer.com/chapter/10.1007/16833_2024_326)
 
 A. Bienia, O. Wiecheć-Cudak, A. A. Murzyn, M. Krzykawska-Serda: *Photodynamic therapy and hyperthermia in combination treatment—Neglected forces in the fight against cancer.*  
 Pharmaceutics 13 (8) **2021**, p.1147 [file](https://www.mdpi.com/1999-4923/13/8/1147/pdf)
