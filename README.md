@@ -4,6 +4,8 @@ corresponding author: #
 
 [go to CV](https://krzykawska.github.io/digital-cv/)
 
+Gabriela Dziurman, Aleksandra Bienia, Aleksandra Murzyn, Bartosz Płóciennik, Julia Kozik, Grzegorz Szewczyk, Małgorzata Szczygieł, Martyna Krzykawska-Serda#, Boris Epel, Howard J. Halpern, Martyna Elas: *Tumor Hypoxia Assessment: In Vivo 3D Oxygen Imaging Through Electron Paramagnetic Resonance* 
+J. Vis. Exp. **2025** (216), e67129, [online](https://app.jove.com/t/67129/tumor-hypoxia-assessment-vivo-3d-oxygen-imaging-through-electron)
 
 Martyna Krzykawska-Serda, Qian Feng, Maciej Serda: *Score a goal with buckyballs: Hypoxia-sensitive [70] fullerene nanotherapeutics*  
 Matter **2024**, [online](https://www.sciencedirect.com/science/article/abs/pii/S2590238524002649)
