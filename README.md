@@ -4,6 +4,12 @@ corresponding author: #
 
 [go to CV](https://krzykawska.github.io/digital-cv/)
 
+Weronika Smolak-Dyżewska, Jerzy Bazak, Wiktoria Brandys, Aleksandra Bienia, Aleksandra Murzyn, Bartosz Płóciennik, Gniewosz Drwięga, Julia Kozik, Agnieszka Drzał, Bartosz Leszczyński, Przemysław Spurek, Martyna Elas, Martyna Krzykawska-Serda*: *From 2D to 3D: Automated Ultrasound Segmentation and Cross-Sectional Validation in Murine Tumor Models*
+Computer Methods and Programs in Biomedicine **2026**, 109403, [online](https://www.sciencedirect.com/science/article/pii/S0169260726001574)  
+
+Gabriela Dziurman, Natalia Radzikowska, Agnieszka Drzał, Aleksandra Murzyn, Piotr Świerzewski, Małgorzata Szczygieł, Bożena Romanowska-Dixon, Martyna Krzykawska-Serda, Martyna Elas: *Three-dimensional oxygen maps of tumors in real time–analysis in the context of active tumor vasculature*
+Computer Methods and Programs in Biomedicine **2026**, 109396, [online](https://www.sciencedirect.com/science/article/pii/S0169260726001537)  
+
 Gabriela Dziurman, Aleksandra Bienia, Aleksandra Murzyn, Bartosz Płóciennik, Julia Kozik, Grzegorz Szewczyk, Małgorzata Szczygieł, Martyna Krzykawska-Serda#, Boris Epel, Howard J. Halpern, Martyna Elas: *Tumor Hypoxia Assessment: In Vivo 3D Oxygen Imaging Through Electron Paramagnetic Resonance* 
 J. Vis. Exp. **2025** (216), e67129, [online](https://app.jove.com/t/67129/tumor-hypoxia-assessment-vivo-3d-oxygen-imaging-through-electron)
 
